@@ -1381,16 +1381,43 @@
          "tilewidth":32
         }, 
         {
+         "columns":2,
          "firstgid":3766,
-         "source":"pipo-map001_at-mori.tsx"
+         "image":"tiles_png\/Pipoya RPG World Tileset 48x48 40x40 32x32\/32x32\/[A]_type2\/pipo-map001_at-mori.png",
+         "imageheight":96,
+         "imagewidth":64,
+         "margin":0,
+         "name":"pipo-map001_at-mori",
+         "spacing":0,
+         "tilecount":6,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":32,
          "firstgid":3772,
-         "source":"tiles_png\/sonstiges\/Sonstiges.tsx"
+         "image":"tiles_png\/sonstiges\/Sonstiges.png",
+         "imageheight":1024,
+         "imagewidth":1024,
+         "margin":0,
+         "name":"Sonstiges",
+         "spacing":0,
+         "tilecount":1024,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":9,
          "firstgid":4796,
-         "source":"Playground.tsx"
+         "image":"tiles_png\/structures\/rpg_maker_playground_tile_by_ayene_chan_d4bhs61-export.png",
+         "imageheight":288,
+         "imagewidth":288,
+         "margin":0,
+         "name":"Playground",
+         "spacing":0,
+         "tilecount":81,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
